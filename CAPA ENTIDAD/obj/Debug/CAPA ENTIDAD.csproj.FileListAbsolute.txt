@@ -1,0 +1,10 @@
+D:\gestion 2021\PROGRAMACION II CENTRAL\proyecto roymar\CAPA ENTIDAD\bin\Debug\CAPA ENTIDAD.dll
+D:\gestion 2021\PROGRAMACION II CENTRAL\proyecto roymar\CAPA ENTIDAD\bin\Debug\CAPA ENTIDAD.pdb
+D:\gestion 2021\PROGRAMACION II CENTRAL\proyecto roymar\CAPA ENTIDAD\obj\Debug\CAPA ENTIDAD.dll
+D:\gestion 2021\PROGRAMACION II CENTRAL\proyecto roymar\CAPA ENTIDAD\obj\Debug\CAPA ENTIDAD.pdb
+C:\Users\maume\Downloads\proyecto roymar\proyecto roymar\CAPA ENTIDAD\bin\Debug\CAPA ENTIDAD.dll
+C:\Users\maume\Downloads\proyecto roymar\proyecto roymar\CAPA ENTIDAD\bin\Debug\CAPA ENTIDAD.pdb
+C:\Users\maume\Downloads\proyecto roymar\proyecto roymar\CAPA ENTIDAD\obj\Debug\CAPA ENTIDAD.csproj.AssemblyReference.cache
+C:\Users\maume\Downloads\proyecto roymar\proyecto roymar\CAPA ENTIDAD\obj\Debug\CAPA ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\maume\Downloads\proyecto roymar\proyecto roymar\CAPA ENTIDAD\obj\Debug\CAPA ENTIDAD.dll
+C:\Users\maume\Downloads\proyecto roymar\proyecto roymar\CAPA ENTIDAD\obj\Debug\CAPA ENTIDAD.pdb
